@@ -943,6 +943,10 @@ textarea {
   padding: 0;
 }
 
+.site-title a {
+  color: red;
+}
+
 .site-description {
   margin: 0;
   padding: 0;
