@@ -937,18 +937,18 @@ textarea {
 
 /* Mon-site
 --------------------------------------------- */
-.site-title {
+.site-branding .site-title {
   font-size: 10em;
   margin: 0;
   padding: 0;
   /* .site-title a */
 }
 
-.site-title a {
+.site-branding .site-title a {
   color: red;
 }
 
-.site-description {
+.site-branding .site-description {
   margin: 0;
   padding: 0;
   font-size: 2em;
