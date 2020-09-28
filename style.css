@@ -457,7 +457,7 @@ big {
 /* Elements
 --------------------------------------------- */
 body {
-  background: #fff;
+  background: #666;
 }
 
 hr {
@@ -946,5 +946,10 @@ textarea {
 .site-description {
   margin: 0;
   padding: 0;
+}
+
+.site {
+  margin: 0 auto;
+  width: 80%;
 }
 /*# sourceMappingURL=style.css.map */
